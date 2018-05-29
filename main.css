@@ -14,3 +14,19 @@ html {
     height: 100%;
     margin: 0;
 }
+
+header {
+    width: 100%;
+    position: absolute;
+    margin: 0 auto;
+    text-align: center;
+    top: 40%;
+
+}
+h1{
+    font-family: "Montserrat";
+    color: #232323;
+    font-weight: 700;
+    opacity: .2;
+    display: inline-block;
+}
